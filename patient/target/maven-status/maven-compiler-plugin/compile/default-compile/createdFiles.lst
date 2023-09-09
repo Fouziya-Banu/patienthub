@@ -1,0 +1,11 @@
+com\hospital\patient\repositories\PatientRepository.class
+com\hospital\patient\PatientApplication.class
+com\hospital\patient\repositories\PatientResourceRepository.class
+com\hospital\patient\service\PatientResourceService.class
+com\hospital\patient\entities\EmergencyContact.class
+com\hospital\patient\exception\ResourceNotFoundException.class
+com\hospital\patient\entities\Patient.class
+com\hospital\patient\entities\Appointment.class
+com\hospital\patient\entities\HealthRecord.class
+com\hospital\patient\controller\PatientResourceController.class
+com\hospital\patient\entities\PatientResource.class
